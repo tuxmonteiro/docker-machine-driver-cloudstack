@@ -160,11 +160,6 @@ func (d *Driver) GetCreateFlags() []mcnflag.Flag {
 			Name:  "cloudstack-network-id",
 			Usage: "CloudStack network id",
 		},
-		mcnflag.IntFlag{
-			Name:  "cloudstack-network-interface",
-			Usage: "CloudStack network interface (force interface to get ip address)",
-			Value: 0,
-		},
 		mcnflag.StringFlag{
 			Name:  "cloudstack-zone",
 			Usage: "CloudStack zone",
