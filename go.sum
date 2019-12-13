@@ -9,6 +9,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+github.com/xanzy/go-cloudstack v1.2.1-0.20191112180448-23b392287df6 h1:GUn7S7EisN/12khN3b5RqT2aHDostOkooApaYfp4g8k=
+github.com/xanzy/go-cloudstack v1.2.1-0.20191112180448-23b392287df6/go.mod h1:sBh287mCRwCz6zyXHMmw7sSZGPohVpnx+o+OY4M+i3A=
 github.com/xanzy/go-cloudstack v2.1.6+incompatible h1:IMCei5zGlpecSk9WFtQFKhI+5tYeFg9Rt1dkfUB+1Zo=
 github.com/xanzy/go-cloudstack v2.1.6+incompatible/go.mod h1:s3eL3z5pNXF5FVybcT+LIVdId8pYn709yv6v5mrkrQE=
 golang.org/x/crypto v0.0.0-20151120201419-beef0f439081 h1:Pmlkv+UkNMx18O/oeAbr4BQZSewYOl1jsf8k7K1cbu4=

@@ -1,6 +1,6 @@
 .PHONY: build test release clean
 
-GITHUB_USER := andrestc
+GITHUB_USER := tuxmonteiro
 VERSION := $(shell grep -w Version version.go | awk '{print $$5}' | sed 's/"//g')
 
 TARGET_OS ?= darwin linux windows
